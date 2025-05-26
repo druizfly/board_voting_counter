@@ -1,4 +1,4 @@
-import './src/style.css'
+import './style.css'
 
 function calculateResult(votes, voteType, totalVoters) {
   const totalValid = votes.infavor + votes.opposed + votes.abstained;
